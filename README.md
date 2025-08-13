@@ -2,6 +2,8 @@
 
 This example app shows how to integrate the [Scan-bot Document Scanner SDK](https://scanbot.io/document-scanner-sdk/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites) and [Scan-bot Data Capture Modules](https://scanbot.io/data-capture-software/?utm_source=github.com&utm_medium=referral&utm_campaign=dev_sites) for Flutter.
 
+[Complete Guide to Scan and Convert Image to Text in Flutter.](https://www.sevensquaretech.com/scan-image-to-text-flutter-step-by-step-github-code/)
+
 ## What is the Scanbot SDK?
 
 The Scanbot SDK is a set of high-level APIs that lets you integrate document scanning and data extraction functionalities into your mobile apps and websites. It runs on all common mobile devices and operates entirely offline. No data is transmitted to our or third-party servers.
